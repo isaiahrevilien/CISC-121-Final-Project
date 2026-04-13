@@ -1,5 +1,5 @@
-# 🔄 Merge Sort Visualizer | Queen's Shuttle Edition
-Shuttle buses on a Queen's campus need to prioritize which stops to service first during peak hours. This program ranks shuttle stops from least crowded to most crowded using Merge Sort, helping drivers optimize their route based on real-time crowd counts.
+# 🔄 Merge Sort Visualizer | Queen's Shuttle Edition (Problem: Shuttle Stop Crowd Ranking)
+Campus shuttle dispatchers need to quickly identify which stops have the highest crowding to send extra shuttles during peak hours. This program takes a list of shuttle stops with crowd estimates and ranks them by crowd count using Merge Sort, displaying a step-by-step visualization of how the ordering changes over time.
 
 ## Algorithm Name: Merge Sort
 I chose Merge Sort because it provides a clear and structured way to visualize sorting through its divide-and-conquer approach. Unlike simpler algorithms, Merge Sort breaks the data into smaller pieces and then rebuilds it step-by-step in sorted order. This makes it especially useful for visual simulation, as users can see how smaller groups are merged together to form the final ranked list. The merging process is predictable and systematic, which makes it easier to animate and understand. Overall, Merge Sort is efficient and visually demonstrates how complex problems can be solved by breaking them into smaller parts.
