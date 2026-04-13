@@ -38,7 +38,7 @@ test
 4. View the final ranked list of shuttle stops
 
 ## Hugging Face Link
-link
+https://huggingface.co/spaces/isaiahrev/CISC-121-Final-Project
 
 ## Author & Acknowledgment
 Author: Isaiah Révilien
