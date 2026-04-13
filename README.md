@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/99980874-e5c4-42ae-be23-5f9747e7ba4c
 ## Steps to Run
 1. Clone the repository and navigate to the project folder
 2. Install dependencies: 'pip install -r requirements.txt'
-3. Click **"Generate Shuttle Stops"** to create a dataset
+3. Click **"Random Numbers"** to create a dataset
 4. Click **"Run Merge Sort"**
 5. Watch the step-by-step merge sort visualization
 6. View the final ranked list of shuttle stops
