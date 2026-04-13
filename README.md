@@ -1,4 +1,4 @@
-# Algorithm Name: Shuttle Stop Crowd Ranking
+# Algorithm Name: Merge Sort
 I chose Merge Sort because it provides a clear and structured way to visualize sorting through its divide-and-conquer approach. Unlike simpler algorithms, Merge Sort breaks the data into smaller pieces and then rebuilds it step-by-step in sorted order. This makes it especially useful for visual simulation, as users can see how smaller groups are merged together to form the final ranked list. The merging process is predictable and systematic, which makes it easier to animate and understand. Overall, Merge Sort is efficient and visually demonstrates how complex problems can be solved by breaking them into smaller parts.
 
 ## Problem Breakdown & Computational Thinking
