@@ -1,4 +1,7 @@
-# Algorithm Name: Merge Sort
+# 🔄 Merge Sort Visualizer | Queen's Shuttle Edition
+Shuttle buses on a Queen's campus need to prioritize which stops to service first during peak hours. This program ranks shuttle stops from least crowded to most crowded using Merge Sort, helping drivers optimize their route based on real-time crowd counts.
+
+## Algorithm Name: Merge Sort
 I chose Merge Sort because it provides a clear and structured way to visualize sorting through its divide-and-conquer approach. Unlike simpler algorithms, Merge Sort breaks the data into smaller pieces and then rebuilds it step-by-step in sorted order. This makes it especially useful for visual simulation, as users can see how smaller groups are merged together to form the final ranked list. The merging process is predictable and systematic, which makes it easier to animate and understand. Overall, Merge Sort is efficient and visually demonstrates how complex problems can be solved by breaking them into smaller parts.
 
 ## Problem Breakdown & Computational Thinking
@@ -43,4 +46,4 @@ https://huggingface.co/spaces/isaiahrev/CISC-121-Final-Project
 ## Author & Acknowledgment
 Author: Isaiah Révilien
 
-Acknowledgements: Used the Hugging Face documentation ([https://huggingface.co/docs](https://huggingface.co/docs)) to deploy the app. Additionally, used the Gradio quickstart guide ([https://www.gradio.app/guides/quickstart](https://www.gradio.app/guides/quickstart)) to implement the user interface.
+Acknowledgements: Used the Hugging Face documentation ([https://huggingface.co/docs](https://huggingface.co/docs)) to deploy the app. Additionally, used the Gradio quickstart guide ([https://www.gradio.app/guides/quickstart](https://www.gradio.app/guides/quickstart)) to implement the user interface. AI Disclosure: Level 2 AI assistance (GitHub Copilot) was used to help refine code syntax and debug minor issues. All core logic, algorithm implementation, and design decisions were completed independently.
