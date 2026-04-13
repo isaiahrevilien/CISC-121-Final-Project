@@ -35,10 +35,12 @@ I chose Merge Sort because it provides a clear and structured way to visualize s
 test
 
 ## Steps to Run
-1. Click **"Generate Shuttle Stops"** to create a dataset
-2. Click **"Run Merge Sort"**
-3. Watch the step-by-step merge sort visualization
-4. View the final ranked list of shuttle stops
+1. Clone the repository and navigate to the project folder
+2. Install dependencies: 'pip install -r requirements.txt'
+3. Click **"Generate Shuttle Stops"** to create a dataset
+4. Click **"Run Merge Sort"**
+5. Watch the step-by-step merge sort visualization
+6. View the final ranked list of shuttle stops
 
 ## Hugging Face Link
 https://huggingface.co/spaces/isaiahrev/CISC-121-Final-Project
