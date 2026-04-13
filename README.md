@@ -32,7 +32,7 @@ I chose Merge Sort because it provides a clear and structured way to visualize s
 <img width="1594" height="2063" alt="Final Flowchart" src="https://github.com/user-attachments/assets/e0b15367-2428-4578-aa85-b33f68427235" />
 
 ## Demo video/gif/screenshot of test
-test
+https://github.com/user-attachments/assets/99980874-e5c4-42ae-be23-5f9747e7ba4c
 
 ## Steps to Run
 1. Clone the repository and navigate to the project folder
